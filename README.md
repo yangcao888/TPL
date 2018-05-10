@@ -13,7 +13,15 @@ https://arxiv.org/abs/1610.07543
     }
 
 
-Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations (submitted to TKDE special issue "Best of ICDE 2017") https://arxiv.org/abs/1711.11436
+Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations (Invited for TKDE special issue on "Best of ICDE 2017") https://arxiv.org/abs/1711.11436
+
+    @article{cao2018quantifying,
+      title={Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations},
+      author={Cao, Yang and Yoshikawa, Masatoshi and Xiao, Yonghui and Xiong, Li},
+      journal={IEEE Transactions on Knowledge and Data Engineering},
+      year={2018},
+      publisher={IEEE}
+    }
 
 # Environment
 - Matlab2017b.
