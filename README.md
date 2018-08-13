@@ -44,7 +44,7 @@ Alternatively, you can use Matlab linear program solver rather than CPLEX or Gur
 
 - `testPlotLFunc.m` plotting an example of L(a) function
 - `testPlotBudgetAlloc.m` plotting two examples of budget allocation schemes and the corresponding BPL/FPL/TPL.
-- `testCalcBPL.m` running `calcPLbyLP`, `calcPL`, `calcPLbyPreComp` and `calcPLbyFunc`, and outputing the results and runtime. Note that, the results are not BPL/FPL but L(a).
+- `testCalcBPL.m` running `calcPLbyLP`, `calcPLbyThm`, `calcPLbyPreComp` and `calcPLbyFunc`, and outputing the results and runtime. Note that, the results are not BPL/FPL but L(a).
 - `testFindSup.m` running `findSup` and comparing the result with step-by-step calculation.
  
 # Main Functions
@@ -55,7 +55,7 @@ Alternatively, you can use Matlab linear program solver rather than CPLEX or Gur
 
 ### privacy leakage quantification
 - `calcPLbyLP` Calculating L(a) by Linear programming. input `method` can be set as 'gurobi' or 'cplex', or 'matlab'.
-- `calcPL` Calculating L(a) by Theorem 4.
+- `calcPLbyThm` Calculating L(a) by Theorem 4.
 - `calcPLbyPreComp` Calculating L(a) by precomputation. inputs `EspMatrix`, `qM` and `dM` can be obtained by `preCompQDMatrix`.
 - `calcPLbyFunc` Calculating L(a) by binary search. inputs `aArrMax`, `qArrMax` and `dArrMax` can be obtained by `genLFunc`.
  
