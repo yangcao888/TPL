@@ -22,9 +22,9 @@ tic;
 [maxBPL_cplex] = calcPLbyLP(TM,a, 'cplex')
 toc;
 
-%% calcPL by theorem 4
+%% calc by theorem 4
 tic;
-[maxBPL1, ~, ~] = calcPL(TM,a)
+[maxBPL1, ~, ~] = calcPLbyThm(TM,a)
 toc;
 
 

@@ -99,6 +99,6 @@ y_intersec = log((qArrMax.*(exp(x_intersec)-1)+1) ./ (dArrMax.*(exp(x_intersec)-
 plot(x_intersec, y_intersec, 'p', 'MarkerSize', 18)
 
  x = [0.4,0.5];
- y = [0.7,0.58];
+ y = [0.7,0.7];
  annotation('textarrow',x, y, 'String', '$\mathcal{L}(\alpha)$', 'FontSize', 18, 'Interprete', 'latex')
 

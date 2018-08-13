@@ -13,7 +13,7 @@
 %=========================================
 
 
-function [maxPL, q, d]=calcPL(TM, a)
+function [maxPL, q, d]=calcPLbyThm(TM, a)
 % transition matrix M, previous BPL a
 % s=tic;
 
