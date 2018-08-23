@@ -1,4 +1,4 @@
-# Paper
+# Papers
 
 Quantifying Differential Privacy under Temporal Correlations (ICDE17) 
 https://arxiv.org/abs/1610.07543
@@ -22,6 +22,18 @@ Quantifying Differential Privacy in Continuous Data Release under Temporal Corre
       year={2018},
       publisher={IEEE}
     }
+    
+ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release (VLDB18 demo) 
+http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
+
+    @article{cao2018ConTPL,
+      title={ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release},
+      author={Yang Cao, Li Xiong, Masatoshi Yoshikawa, Yonghui Xiao, Si Zhang},
+      journal={PVLDB 11(12)},
+      year={2018},
+      pages={2090--2093}
+    }
+    
 
 # Environment
 - Matlab2017b.
