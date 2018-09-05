@@ -82,4 +82,6 @@ Alternatively, you can use Matlab linear program solver rather than CPLEX or Gur
 # Contact
 
 Yang Cao 
-ycao31@emory.edu
+yang@i.kyoto-u.ac.jp
+
+    
