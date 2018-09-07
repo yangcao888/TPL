@@ -34,6 +34,7 @@ http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
       pages={2090--2093}
     }
     
+Licensed under Apache License, Version 2.0.
 
 # Environment
 - Matlab2017b.
