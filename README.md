@@ -40,6 +40,8 @@ http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
 - CPLEX (optional)
 - Gurobi (optional)
 
+Note: the code is tested on OSX 10.13.
+
 Function `calcPLbyLP_cplex` needs IBM CPLEX. Function `calcPLbyLP_gu` needs Gurobi.
 You can find (free) academics version of CPLEX or Gruobi.
 Alternatively, you can use Matlab linear program solver rather than CPLEX or Gurobi by invoking `calcPLbyLP(TM, a, 'matlab')`. Tip: you can take a sleep if using Matlab linear program solver for n>30 :P
