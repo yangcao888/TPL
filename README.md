@@ -5,6 +5,7 @@ https://github.com/brahms2013/TPL/releases
 # Papers
 
 Quantifying Differential Privacy under Temporal Correlations (ICDE17) 
+https://ieeexplore.ieee.org/document/7930028/
 https://arxiv.org/abs/1610.07543
 
     @inproceedings{cao2017quantifying,
@@ -17,7 +18,10 @@ https://arxiv.org/abs/1610.07543
     }
 
 
-Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations (Invited for TKDE special issue on "Best of ICDE 2017") https://arxiv.org/abs/1711.11436
+Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations (Invited for TKDE special issue on "Best of ICDE 2017") 
+https://ieeexplore.ieee.org/document/8333800
+https://arxiv.org/abs/1711.11436
+
 
     @article{cao2018quantifying,
       title={Quantifying Differential Privacy in Continuous Data Release under Temporal Correlations},
@@ -28,6 +32,7 @@ Quantifying Differential Privacy in Continuous Data Release under Temporal Corre
     }
     
 ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous Data Release (VLDB18 demo) 
+https://dl.acm.org/citation.cfm?id=3275604
 http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
 
     @article{cao2018ConTPL,
