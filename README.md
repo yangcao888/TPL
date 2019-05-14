@@ -62,7 +62,7 @@ Alternatively, you can use Matlab linear program solver rather than CPLEX or Gur
 Our proposed quantification algorithms `calcPLbyThm`, `calcPLbyPreComp` and `calcPLbyFunc` are much faster.
 
 ### tips for downloading and installing CPLEX:
-1. Download CPLEX [academic version](https://developer.ibm.com/docloud/blog/2016/11/24/cos-12-7-ai/) (I use this version)   or [free trial version](https://www.ibm.com/developerworks/downloads/ws/ilogcplex/#) (the free trial period is 90 days).  Here are the descriptions on the [differences between these versions](https://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/). 
+1. Download CPLEX [academic version] 12.7 (https://developer.ibm.com/docloud/blog/2016/11/24/cos-12-7-ai/) (I use this version)   or [free trial version](https://www.ibm.com/developerworks/downloads/ws/ilogcplex/#) (the free trial period is 90 days).  Here are the descriptions on the [differences between these versions](https://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/). 
 2. Install CPLEX. 
 3. Setting up CPLEX for Matlab, refer to [here](https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.1/ilog.odms.cplex.help/CPLEX/MATLAB/topics/gs_install.html).
 
