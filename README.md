@@ -59,6 +59,8 @@ Function `calcPLbyLP_cplex` needs IBM CPLEX. Function `calcPLbyLP_gu` needs Guro
 You can find (free) academics version of CPLEX or Gruobi.
 Alternatively, you can use Matlab linear program solver rather than CPLEX or Gurobi by invoking `calcPLbyLP(TM, a, 'matlab')`. Tip: you can take a sleep if using Matlab linear program solver for n>30 :P
 
+Our proposed quantification algorithms `calcPLbyThm`, `calcPLbyPreComp` and `calcPLbyFunc` are much faster.
+
 ### tips for downloading and installing CPLEX:
 1. Download CPLEX [academic version](https://developer.ibm.com/docloud/blog/2016/11/24/cos-12-7-ai/) (I use this version)   or [free trial version](https://www.ibm.com/developerworks/downloads/ws/ilogcplex/#) (the free trial period is 90 days).  Here are the descriptions on the [differences between these versions](https://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/). 
 2. Install CPLEX. 
