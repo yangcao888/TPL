@@ -66,6 +66,13 @@ Our proposed quantification algorithms `calcPLbyThm`, `calcPLbyPreComp` and `cal
 2. Install CPLEX. 
 3. Setting up CPLEX for Matlab, refer to [here](https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.1/ilog.odms.cplex.help/CPLEX/MATLAB/topics/gs_install.html).
 
+### if you find function "VChooseK" doesn't work
+Function "VChooseK" (VChooseK.c, VChooseK.m) is credited to this project:
+https://www.mathworks.com/matlabcentral/fileexchange/26190-vchoosek
+
+Since I ran the code on OSX 10.13, I compiled it to "VChooseK.mexmaci64".
+If you are using Windows or other OS, you may want to re-compile and replace it.
+
 # Overview
 ![alt overview](/TPL_uml.png)
 
