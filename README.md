@@ -107,6 +107,8 @@ If you are using Windows or other OS, you may want to re-compile and replace it.
 
 Yang Cao 
 
-yang@i.kyoto-u.ac.jp
+~~yang@i.kyoto-u.ac.jp~~
+
+yang@ist.hokudai.ac.jp
 
     
